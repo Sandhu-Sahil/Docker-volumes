@@ -1,5 +1,7 @@
 # YAML File
-Just using .yaml file to create full app by using images only, And also using volumes to store data for future references
+Just using .yaml file to create full app by using images only.
+Also using volumes to store data for future references.
+Going for kubernetes next!
 
 ### run command
 ```
